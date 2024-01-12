@@ -18,11 +18,11 @@
 1.Клонируйте репозиторий и перейдите в него в командной строке:
 
 ``` bash
-git clone git@github.com:alekseevpy/Yatube.git
+git clone https://github.com/alekseevpy/Social-network.git
 ```
 
 ``` bash
-cd Yatube
+cd social_network
 ```
 
 2.Установите и активируйте виртуальное окружение
